@@ -65,8 +65,3 @@
 | **Trio Script** | A custom programming language and interpreter developed for educational purposes. | _TypeScript, Deno_ |
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimotaz2005&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimotaz2005&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
