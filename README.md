@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Ali Almotazbellah</h1>
+<h1 align="center">Hi there , I'm Blaze Trio</h1>
 <h3 align="center"> AI Researcher | Robotics Engineer | Game Developer</h3>
 
 <p align="center">
