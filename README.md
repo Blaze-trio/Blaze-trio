@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ali Almotazbellah</h1>
-<h3 align="center">🚀 AI Researcher | Robotics Engineer | Game Developer</h3>
+<h1 align="center">Hi there , I'm Ali Almotazbellah</h1>
+<h3 align="center"> AI Researcher | Robotics Engineer | Game Developer</h3>
 
 <p align="center">
   <a href="https://www.leetcode.com/alimotaz2005" target="blank">
@@ -18,9 +18,9 @@
 
 
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
-### 🧠 AI & Data Science
+### AI & Data Science
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-### 🦾 Robotics & Embedded Systems
+### Robotics & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -38,14 +38,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### 🎮 Game Dev & 3D
+### Game Dev & 3D
 <p>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 </p>
 
-### 🌐 Web & Tools
+### Web & Tools
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -56,13 +56,13 @@
 
 <br/>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Hot-Dog V3** 🐕 | A custom-built quadruped robot using 3D-printed parts and custom actuation logic. | _ROS 2, C++, ESP32_ |
-| **Skybound** ✈️ | A flight simulation game featuring custom level design and physics controls. | _OpenGL, C++, Blender_ |
-| **Trio Script** 💻 | A custom programming language and interpreter developed for educational purposes. | _TypeScript, Deno_ |
+| **Hot-Dog V3**  | A custom-built quadruped robot using 3D-printed parts and custom actuation logic. | _ROS 2, C++, ESP32_ |
+| **Skybound**  | A flight simulation game featuring custom level design and physics controls. | _OpenGL, C++, Blender_ |
+| **Trio Script** | A custom programming language and interpreter developed for educational purposes. | _TypeScript, Deno_ |
 
 <br/>
 
