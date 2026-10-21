@@ -2,7 +2,7 @@
 <h3 align="center"> AI Researcher | Robotics Engineer | Game Developer</h3>
 
 <p align="center">
-  <a href="https://www.leetcode.com/alimotaz2005" target="blank">
+  <a href="https://www.leetcode.com/alimotaz" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Stats" />
   </a>
   <a href="mailto:alimotaz2005@gmail.com">
