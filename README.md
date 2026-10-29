@@ -1,5 +1,3 @@
-<h1 align="center">Hi there , I'm Blaze Trio</h1>
-<h3 align="center"> AI Researcher | Robotics Engineer | Game Developer</h3>
 
 <p align="center">
   <a href="https://www.leetcode.com/alimotaz" target="blank">
